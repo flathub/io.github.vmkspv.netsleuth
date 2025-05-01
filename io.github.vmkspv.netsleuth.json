@@ -1,7 +1,7 @@
 {
     "id" : "io.github.vmkspv.netsleuth",
     "runtime" : "org.gnome.Platform",
-    "runtime-version" : "47",
+    "runtime-version" : "48",
     "sdk" : "org.gnome.Sdk",
     "command" : "netsleuth",
     "finish-args" : [
@@ -19,7 +19,7 @@
                 {
                     "type" : "git",
                     "url" : "https://github.com/vmkspv/netsleuth.git",
-                    "tag" : "v1.1.0"
+                    "tag" : "v1.1.1"
                 }
             ]
         }
